@@ -2,7 +2,7 @@
 ## To run the code:
 ```
 g++ csp.cpp
-./a.exe < input.txt (Get-Content input.txt | ./a.exe)
+./a.exe < input.txt (or Get-Content input.txt | ./a.exe)
 ```
 ## Input format:
 * colors: colors=k
